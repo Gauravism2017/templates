@@ -31,8 +31,6 @@ void solve() {
     cin>>n;
     vector<int> vec(n);
     cin>>vec;
-    SegmentTree<int> seg(vec);
-    cout<<seg.vec<<'\n';
 }
 
 int main() {
