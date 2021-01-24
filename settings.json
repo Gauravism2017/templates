@@ -1,0 +1,45 @@
+{
+    
+    "workbench.colorTheme": "Cobalt2",
+    "terminal.integrated.shell.windows": "D:\\Applications\\PowerShell\\7-preview\\pwsh.exe",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 18,
+    "editor.tokenColorCustomizations": {
+        "keywords": "#0dceb4",
+        "strings": "#29a792",
+        "types": "#b6d81f",
+        "comments": "#00ff00",
+        "functions": "#92dd55",
+        "textMateRules": [
+          {
+              "scope": [
+                  "entity.name.tag",
+                  "entity.name.class"
+              ],
+              "settings": {
+                  "foreground": "#008000"
+              }
+          }
+      ],
+    },
+    "terminal.integrated.fontFamily": "Anonymice Nerd Font",
+    "terminal.integrated.fontSize": 18,
+    "window.zoomLevel": 0.2,
+    "glassit.alpha": 220,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editorAssociations": [],
+    "git.ignoreWindowsGit27Warning": true,
+    "sqltools.useNodeRuntime": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_djnago"
+    ],
+    "gitlens.views.repositories.enabled": true,
+    "gitlens.mode.statusBar.alignment": "left",
+    "workbench.colorCustomizations": {},
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "debug.console.fontSize": 18,
+    "markdown.preview.fontSize": 18,
+    "mssql.resultsFontSize": 16,
+    "python.languageServer": "Pylance"
+    
+}
